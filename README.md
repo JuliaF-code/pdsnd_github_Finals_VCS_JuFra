@@ -28,10 +28,10 @@ This project is commonly used to:
 ### Installation Instructions and Software Dependencies
 - Python: Ensure Python 3.x is installed on your system.
 - Dependencies: Install required libraries using pip >> pip install pandas numpy
-- Clone the project repository: git clone https://github.com/your_username/course-collaboration-travel-plans.git
-- Run the Script:Navigate to the project directory and run the script:
+- Clone the project repository>> git clone https://github.com/udacity/pdsnd_github.git
+- Run the Script:Navigate to the project directory and run the script >> python bikeshare.py
 
 ### Known Bugs
 - Data inconsistencies may arise due to missing or incomplete information in the datasets.
-- The Washington dataset lacks Gender and Birth Year information, limiting certain analyses.
+- The Washington dataset lacks gender and birth year information, limiting certain analyses.
 - Potential performance issues with very large datasets.
