@@ -20,6 +20,11 @@ This project is commonly used to:
 - new_york_city.csv: Dataset for New York City bike share usage.
 - washington.csv: Dataset for Washington, DC bike share usage.
 
+### Example Output:
+- Most common start station: Broadway & Barry Ave
+- Total travel time: 120 hours
+- User type distribution: 70% Subscribers, 30% Customers
+
 ### Credits
 - Motivate: For providing the bike share data.
 - Udacity: For the project framework and resources.
