@@ -40,3 +40,9 @@ This project is commonly used to:
 - Data inconsistencies may arise due to missing or incomplete information in the datasets.
 - The Washington dataset lacks gender and birth year information, limiting certain analyses.
 - Potential performance issues with very large datasets.
+
+### Future Work
+- Add support for additional cities and datasets.
+- Include advanced data visualization using libraries like Matplotlib or Seaborn.
+- Integrate a web-based user interface for easier interaction.
+
